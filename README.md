@@ -1,5 +1,5 @@
 # Avocado
-Data analysis and visualization of Avocado Dataset.
+Project Preview: Data analysis and visualization of Avocado Dataset. Used different classifiers to predict the type of Avocado.
 
 About the Dataset
 
